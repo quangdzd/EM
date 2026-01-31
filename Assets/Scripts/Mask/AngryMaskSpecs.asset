@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e200b2d14c549e69590321ecf9f4d6, type: 3}
+  m_Name: AngryMaskSpecs
+  m_EditorClassIdentifier: Assembly-CSharp::MaskSpecs
+  sprites:
+  - {fileID: 621222158458474870, guid: 1c55f36aebb42425f85838c719323c16, type: 3}
+  - {fileID: 1556671114396690510, guid: 2e4e29f54df6a4b62a4eb02fc7eb9000, type: 3}
+  - {fileID: -527712887814045265, guid: e576cfd5040c64d8e93a3ac04560ed56, type: 3}
+  maskType: 1
+  correctSequence: 0200000001000000
+  normalDialog: []
+  observeDialog: It reacts to your presence
+  wrongDialog: 'It flares up '

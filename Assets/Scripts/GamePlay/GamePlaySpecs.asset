@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f81793a3af744d89882313f0a8c5062, type: 3}
+  m_Name: GamePlaySpecs
+  m_EditorClassIdentifier: Assembly-CSharp::GamePlaySpecs
+  LevelSpecs:
+  - {fileID: 11400000, guid: fa733976cdb8040c8ac1ef5aada3d8b5, type: 2}
+  - {fileID: 11400000, guid: b694ba7d33a954c24a954ff134484adb, type: 2}
+  - {fileID: 11400000, guid: a6015237f23fc4602806d9ae200a6a41, type: 2}
+  - {fileID: 11400000, guid: 8300cb4587ba94aa89729e402f04d296, type: 2}
+  - {fileID: 11400000, guid: 302dae4cf08004a05a06b47a31dcdd12, type: 2}
+  - {fileID: 11400000, guid: 49121c3dc51824f2685d22c6d8c88206, type: 2}
+  - {fileID: 11400000, guid: cf048dab8e657493eadabf0d62cc154a, type: 2}
+  FearMaskSpecs: {fileID: 11400000, guid: d9eb2a50d65d840ae9356eae23daeb6d, type: 2}
+  AngryMaskSpecs: {fileID: 11400000, guid: eb861243a1edb4449a4362460fe0fca2, type: 2}
+  PrideMaskSpecs: {fileID: 11400000, guid: 3a1921f09f5e844659d22b36763890ca, type: 2}
